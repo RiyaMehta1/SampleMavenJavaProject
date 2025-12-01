@@ -5,6 +5,6 @@ package com.example.MavenJavaProject;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins webhook trigger!");
+        System.out.println("Hello from Jenkins webhook trigger1!");
     }
 }
